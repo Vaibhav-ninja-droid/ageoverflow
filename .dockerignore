@@ -1,0 +1,9 @@
+.git
+.terraform
+*.tfstate*
+credentials*
+.env*
+*.tfvars*
+app_bundle.zip
+__pycache__
+.venv
